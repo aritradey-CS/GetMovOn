@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/aritradey-CS/GetMovOn/static/css/main.d4804f1c.css",
+    "main.js": "/aritradey-CS/GetMovOn/static/js/main.8c227b3a.js",
+    "static/media/background.jpg": "/aritradey-CS/GetMovOn/static/media/background.2f4f8794503f0708cdaf.jpg",
+    "static/media/question-circle3.png": "/aritradey-CS/GetMovOn/static/media/question-circle3.d3d01b8354d2370156dc.png",
+    "static/media/history1.png": "/aritradey-CS/GetMovOn/static/media/history1.8f88f7e742f2791d76ad.png",
+    "static/media/home.png": "/aritradey-CS/GetMovOn/static/media/home.433f6777be89b991a5b1.png",
+    "static/media/envelope.png": "/aritradey-CS/GetMovOn/static/media/envelope.ab6bc4dd5d4794016ec5.png",
+    "index.html": "/aritradey-CS/GetMovOn/index.html",
+    "main.d4804f1c.css.map": "/aritradey-CS/GetMovOn/static/css/main.d4804f1c.css.map",
+    "main.8c227b3a.js.map": "/aritradey-CS/GetMovOn/static/js/main.8c227b3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4804f1c.css",
+    "static/js/main.8c227b3a.js"
+  ]
+}
